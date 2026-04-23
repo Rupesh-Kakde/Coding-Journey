@@ -14,7 +14,7 @@ It reflects my consistency in learning, practicing, and improving core programmi
 coding-journey/
  ├── Java_Programming/
  ├── C_Programming/
- ├── CPP_Programming/
+ ├── C++_Programming/
 
 
 ## 📅 What I Do Here
